@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: monospace;
-    font-size: 16px;
+    font-size: 24px;
     margin: 0;
     padding: 0;
     color: #333;
@@ -15,7 +15,7 @@ body{
     padding: 0.5em;
 }
 #cabecera #logo{
-    width: 20px;
+    width: 38px;
     vertical-align: middle;
 }
 #cabecera #tagline{
